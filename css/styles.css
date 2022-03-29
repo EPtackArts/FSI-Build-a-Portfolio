@@ -25,3 +25,8 @@ hr {
     border: none;
     margin-top: 2px;
 }
+.me {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
