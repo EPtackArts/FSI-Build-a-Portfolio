@@ -29,4 +29,29 @@ hr {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 2px;
+    margin-bototm: 2px;
+}
+.content {
+    margin-top: -100px;
+}
+h3 {
+    font-family: Kiddo_bold;
+    font-size: 24pt;
+    color: #1a1b1f;
+    margin-bottom: 2px;
+}
+p {
+    margin-top: 2px;
+}
+.site {
+    font-family: Kiddo_Bold;
+    font-size: 24pt;
+    color: #e8cc6f;
+}
+.sections {
+    text-align: center;
+}
+ul {
+    display: inline;
 }
